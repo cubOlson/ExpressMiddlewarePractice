@@ -1,0 +1,22 @@
+{
+  "name": "expressmiddleware",
+  "version": "1.0.0",
+  "description": "Express middleware practice.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cubOlson/EXPRESSBASICS---Middleware.git"
+  },
+  "author": "Cub Olson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cubOlson/EXPRESSBASICS---Middleware/issues"
+  },
+  "homepage": "https://github.com/cubOlson/EXPRESSBASICS---Middleware#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
